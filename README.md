@@ -19,12 +19,4 @@ A minimal iOS timer app built with Swift and Xcode.
   cd watch
   open watch.xcodeproj
 
-
 3.	Run on a simulator or device.
-
-Usage
-	•	Press Start to begin the timer.
-	•	Press Stop to pause it.
-	•	Press Reset to clear and start over.
-
-If you want, I can also make an **even shorter, GitHub-friendly version with just emojis and one-liners** for a modern look. Do you want me to do that?
