@@ -16,7 +16,8 @@ A minimal iOS timer app built with Swift and Xcode.
 
 2.	Open the project in Xcode:
   ```bash
-  cd watch
-  open watch.xcodeproj
+  cd watch```
+
+  Open watch.xcodeproj
 
 3.	Run on a simulator or device.
