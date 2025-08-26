@@ -12,10 +12,9 @@ A minimal iOS timer app built with Swift and Xcode.
    ```bash
    git clone https://github.com/your-username/simple-timer.git
 
-	2.	Open the project in Xcode:
+2.	Open the project in Xcode:
+	```bash
+	cd watch ```
+	open watch.xcodeproj
 
-cd watch
-open watch.xcodeproj
-
-
-	3.	Run on a simulator or device.
+3.	Run on a simulator or device.
